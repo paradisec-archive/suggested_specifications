@@ -1,6 +1,6 @@
 # Suggested specifications for digital capture for archiving with PARADISEC
 
-Development of this documentation was generously funded by the ARC Centre of Excellence for the Dynamics of Language (CoEDL):: https://www.dynamicsoflanguage.edu.au/
+Development of this documentation was generously funded by the ARC Centre of Excellence for the Dynamics of Language (CoEDL): https://www.dynamicsoflanguage.edu.au/
 
 ---
 
