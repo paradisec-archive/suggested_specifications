@@ -1,7 +1,7 @@
 # Suggested settings for recording audio and video for fiedwork
 
 <p align="center">
-  <img width="200" src="images/freaky-revox.gif">
+  <img height="200" src="images/lumetri_scope.gif">
 </p>
 
 ## Audio recordings
